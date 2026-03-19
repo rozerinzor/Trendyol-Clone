@@ -1,72 +1,85 @@
-🛍️ Trendyol Clone
+# 🛍️ Trendyol Clone
 
-Modern ve responsive tasarıma sahip, HTML & CSS kullanılarak geliştirilmiş bir Trendyol Clone e-ticaret arayüzü. Bu proje, frontend becerilerini geliştirmek ve gerçek bir e-ticaret deneyimini simüle etmek amacıyla hazırlanmıştır.
+Modern ve kullanıcı dostu arayüzüyle geliştirilen bu proje, popüler e-ticaret platformu Trendyol’un tasarımını örnek alarak hazırlanmış bir **frontend clone çalışmasıdır**.  
 
-🚀 Özellikler
+Tamamen **HTML & CSS** kullanılarak geliştirilmiş olup, responsive yapısıyla tüm cihazlara uyum sağlar.
 
-✅ Responsive (mobil uyumlu) tasarım
+---
 
-✅ Ürün kart yapısı
+## 🚀 Proje Özellikleri
 
-✅ Ürün listeleme alanı
+✨ Modern ve şık UI tasarım  
+📱 Responsive (mobil uyumlu) yapı  
+🛒 Ürün kartları ve listeleme sistemi  
+🔍 Arama kutusu  
+🧭 Navigasyon menüsü  
+🏷️ Ürün etiketleri (En çok satan, fırsat vb.)  
+⭐ Ürün puanlama sistemi (ikonlar ile)  
 
-✅ Navbar & arama kutusu
 
-✅ Sepet ikonu ve ürün sayacı
+---
 
-✅ Kategori menüsü
+## 🛠️ Kullanılan Teknolojiler
 
-✅ Bootstrap Icons kullanımı
+- HTML5  
+- CSS3  
+- Bootstrap Icons  
 
-✅ Modern UI tasarım
+---
 
-🛠️ Kullanılan Teknolojiler
+## 🎥 Proje Önizleme
 
-HTML5
+![Trendyol Clone Demo](images/trendyol-clone.gif)
 
-CSS3
+---
 
-Bootstrap Icons
+## 📂 Proje Yapısı
 
-🎥 Proje Önizleme
 
-📂 Proje Yapısı
-📁 Trendyol-Clone
- ┣ 📁 images
- ┃ ┗ trendyol-clone.gif
- ┣ 📄 index.html
- ┣ 📄 style.css
- ┗ 📄 README.md
-⚙️ Kurulum
+📁 trendyol-clone
+┣ 📁 images
+┃ ┗ trendyol-clone.gif
+┣ 📄 index.html
+┣ 📄 style.css
+┗ 📄 README.md
 
-Projeyi kendi bilgisayarında çalıştırmak için:
 
+---
+
+## ⚙️ Kurulum ve Kullanım
+
+Projeyi çalıştırmak için:
+
+```bash
 git clone https://github.com/kullaniciadi/trendyol-clone.git
+cd trendyol-clone
 
-Ardından index.html dosyasını tarayıcıda açman yeterli.
+Ardından index.html dosyasını tarayıcıda açman yeterlidir.
 
-🎯 Amaç
+🎯 Projenin Amacı
 
 Bu proje ile:
 
-HTML & CSS pratiği yapmak
+HTML & CSS becerilerini geliştirmek
 
 Responsive tasarım mantığını öğrenmek
 
-Gerçek bir e-ticaret arayüzü geliştirmek
+Gerçek bir e-ticaret arayüzü deneyimi kazanmak
 
 hedeflenmiştir.
 
-📌 Geliştirme Fikirleri
+🔮 Geliştirme Önerileri
 
-🛒 Sepet sistemi eklenebilir (JavaScript ile)
-
-🔍 Ürün arama özelliği yapılabilir
-
-⭐ Ürün puanlama sistemi geliştirilebilir
-
-💳 Ödeme sayfası eklenebilir
+🚀 JavaScript ile sepete ürün ekleme
+🔍 Dinamik arama sistemi
+❤️ Favorilere ekleme
+💳 Checkout / ödeme sayfası
+📦 API entegrasyonu
 
 👩‍💻 Geliştirici
 
 Rozerin Zor
+
+⭐ Destek
+
+Projeyi beğendiysen ⭐ vermeyi unutma!
